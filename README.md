@@ -1,4 +1,4 @@
-### WFP (Windows Filtering Platform:
+### WFP (Windows Filtering Platform):
 * https://scorpiosoftware.net/2022/12/25/introduction-to-the-windows-filtering-platform/
 * https://blog.quarkslab.com/guided-tour-inside-windefenders-network-inspection-driver.html
 * https://learn.microsoft.com/en-us/windows-hardware/drivers/network/introduction-to-windows-filtering-platform-callout-drivers
