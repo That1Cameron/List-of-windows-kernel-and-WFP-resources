@@ -9,7 +9,7 @@
 ### inverted call model (overlaps with IoCTL):
 * https://www.osr.com/nt-insider/2013-issue1/inverted-call-model-kmdf/
 * https://www.osronline.com/article.cfm%5eid=94.htm (old version of ^)
-* https://github.com/OSRDrivers/Inverted
+* https://github.com/OSRDrivers/Inverted  
 (usermode service side)
 * https://learn.microsoft.com/en-us/dotnet/api/microsoft.win32.safehandles.safefilehandle?view=net-9.0
 * https://learn.microsoft.com/en-us/dotnet/api/system.threading.waithandle.waitone?view=net-9.0#system-threading-waithandle-waitone
