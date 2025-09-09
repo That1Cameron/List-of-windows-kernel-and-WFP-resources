@@ -14,7 +14,7 @@
 * https://learn.microsoft.com/en-us/dotnet/api/microsoft.win32.safehandles.safefilehandle?view=net-9.0
 * https://learn.microsoft.com/en-us/dotnet/api/system.threading.waithandle.waitone?view=net-9.0#system-threading-waithandle-waitone
 * https://learn.microsoft.com/en-us/answers/questions/1726443/how-to-call-fsctl-get-ntfs-volume-data-ioctl-from
-* https://learn.microsoft.com/en-us/dotnet/framework/windows-services/how-to-add-installers-to-your-service-application (some gloss to add)
+* https://learn.microsoft.com/en-us/dotnet/framework/windows-services/how-to-add-installers-to-your-service-application (not requried)
 
 ### IoCTL:
 * https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/sending-commands-from-userland-to-your-kernel-driver-using-ioctl
