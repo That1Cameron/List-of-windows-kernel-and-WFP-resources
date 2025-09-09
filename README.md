@@ -6,7 +6,7 @@
 * https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/fwpsk/nf-fwpsk-fwpscalloutregister0
 * https://learn.microsoft.com/en-us/windows/win32/fwp/management-filtering-layer-identifiers-
 
-### inverted call model (overlaps with IoCTL)
+### inverted call model (overlaps with IoCTL):
 * https://www.osr.com/nt-insider/2013-issue1/inverted-call-model-kmdf/
 * https://www.osronline.com/article.cfm%5eid=94.htm (old version of ^)
 * https://github.com/OSRDrivers/Inverted
@@ -16,7 +16,7 @@
 * https://learn.microsoft.com/en-us/answers/questions/1726443/how-to-call-fsctl-get-ntfs-volume-data-ioctl-from
 * https://learn.microsoft.com/en-us/dotnet/framework/windows-services/how-to-add-installers-to-your-service-application (some polish)
 
-### IoCTL
+### IoCTL:
 * https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/sending-commands-from-userland-to-your-kernel-driver-using-ioctl
 * https://www.osronline.com/article.cfm%5Eid=92.htm
 * https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-iocreatesymboliclink
