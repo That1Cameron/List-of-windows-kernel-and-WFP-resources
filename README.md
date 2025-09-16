@@ -37,6 +37,7 @@
 * https://learn.microsoft.com/en-us/windows-hardware/drivers/kernel/introduction-to-spin-locks
 * https://learn.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-ioqueueworkitem <- important
 * https://www-user.tu-chemnitz.de/~heha/oney_wdm/ch04c.htm#:~:text=DISPATCH_LEVEL%20is%20so%20called%20because,SYNCH_LEVEL%2C%20if%20you%20care.) <- very important to mind the context callbacks register to (wfp callbacks register to DISPATCH_LEVEL, heavy operations like IoCTL responses in this layer will cause BSoD)
+* https://github.com/adspro15/km-um-communication (havent looked through yet but contains new methods to use down the road)
 
 ### other:
 * https://www.mdsec.co.uk/2020/12/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/
